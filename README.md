@@ -22,6 +22,6 @@
 <b>Cursando Programação na: 
 <div style="display: inline_block">
 <img align="center"alt="DevMedia"src="https://img.shields.io/badge/DevMedia-5AC710?style=for-the-badge&logo=DevMedia&logoColor=white"/>
-<img align="center"alt="Udemy"src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img align="center"alt="DIO"src="https://img.shields.io/badge/DIO.ME-00AFF0?style=for-the-badge&logo=DIO.ME&logoColor=white"/>
 </div><br>
 <b> “Não é a linguagem de programação que define o programador, mas sim sua lógica.”  
